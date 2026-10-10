@@ -1,0 +1,6 @@
+{
+  "name": "PixelLab",
+  "description": "Create stylish 3D text, customize typography, add stickers, shapes, quotes, and edit photo graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
